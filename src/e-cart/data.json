@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "7583",
+      "user": "udhaya prakash",
+      "email": "udhayaprakasheeeeng@gmail.com",
+      "password": "123",
+      "re_password": "123"
+    },
+    {
+      "id": "f379",
+      "user": "udhaya shankar",
+      "email": "udhayashanakar@gmail.com",
+      "password": "123",
+      "re_password": "123"
+    }
+  ]
+}

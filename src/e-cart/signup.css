@@ -1,0 +1,10 @@
+.custom-input {
+  height:25px !important; 
+  padding-top:0px;
+  padding-bottom:0px;
+  font-size: 14px; 
+  border: 2px solid blue;
+}
+.custom-floating-label {
+  height: auto !important; 
+}  

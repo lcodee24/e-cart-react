@@ -1,0 +1,18 @@
+{
+  "cart_list": [
+    {
+      "id": "4d3e",
+      "img": "https://images.meesho.com/images/products/352417681/ptzna_400.webp",
+      "title": "tops",
+      "offer": 659,
+      "Originalprice": 1759
+    },
+    {
+      "id": "a604",
+      "img": "https://images.meesho.com/images/products/299284549/oqm1d_400.webp",
+      "title": "shoes",
+      "offer": 559,
+      "Originalprice": 1499
+    }
+  ]
+}

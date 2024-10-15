@@ -1,0 +1,14 @@
+# Handle line endings automatically for all text files
+* text=auto
+
+# Specific settings for certain file types
+*.html text
+*.css text
+*.js text
+*.json text
+*.md text
+
+# Binary files should be treated as binary
+*.png binary
+*.jpg binary
+*.gif binary
